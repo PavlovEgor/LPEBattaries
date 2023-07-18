@@ -1,0 +1,10 @@
+,Производитель,модель,Электрохимическая система,Формфактор,"Габариты сборки/
+батареи, мм","Масса полной батареи, кг","Количество циклов 
+на заряд/разряд","Длительный ток разряда, А","Длительный ток заряда, А","Максимальный ток разряда, А","Максимальный ток заряда, А",Рейтинг по совпадениям
+6,CATL ,CATL-3.2V 228Ah,True,True,True,True,True,False,False,False,False,5
+0,CATL ,CATL 3.7V 53Ah,True,True,True,True,False,False,False,False,False,4
+1,CATL ,CATL3.7V 129Ah,True,True,True,True,False,False,False,False,False,4
+2,CATL ,CATL-3.7V 190Ah,True,True,True,True,False,False,False,False,False,4
+3,CATL ,CATL-3.7V 248Ah,True,True,True,True,False,False,False,False,False,4
+4,CATL ,CATL 3.2.V100Ah,True,True,True,False,False,False,False,False,False,3
+5,CATL ,CATL-3.2V 120Ah,True,True,True,False,False,False,False,False,False,3
