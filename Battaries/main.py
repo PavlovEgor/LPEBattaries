@@ -59,10 +59,10 @@ class Chaker:
 
         return np.array(self.batData[nameOfParam]) * k > float(self.technical_specification[nameOfParam].iloc[0])
 
-    def live_time(self):
+    def live_time(self):  # проверяет количество циклов на заряд/разряд ячейки и тз
         return self.standart_check_req('Количество циклов на заряд/разряд')
 
-    def long_current_of_discharging(self):
+    def long_current_of_discharging(self):  # проверяет ток всей сборки и по тз
         return self.standart_check_req('Длительный ток разряда, А', self.quantity_in_parallel())
 
     def long_current_of_charging(self):
@@ -80,13 +80,14 @@ class Chaker:
 
         return np.array(self.batData[nameOfParam]) == np.array(self.technical_specification[nameOfParam])
 
-    def chemistry(self):
+    def chemistry(self):  # если в тз задана химия катода сравнивает ее с ячейкой
         return self.standart_check_eq('Электрохимическая система')
 
-    def form_factor(self):
+    def form_factor(self):  # если в тз задан форм-фактор сравнивает ее с ячейкой
         return self.standart_check_eq('Формфактор')
 
-ts = technical_specification[1:2]
+
+ts = technical_specification[1:2]  # берем любое ТЗ из имеющихся
 Model = Chaker(batData, ts)
 Answer = pd.DataFrame({
     'Производитель': batData['Производитель'].values,
@@ -110,6 +111,5 @@ for i in range(len(Answer.index)):
     R.append(r)
 Answer['Рейтинг по совпадениям'] = R
 Answer = Answer.sort_values(by='Рейтинг по совпадениям', ascending=False)
+
 Answer.to_csv('Answer.csv')
-
-
