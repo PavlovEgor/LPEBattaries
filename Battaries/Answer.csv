@@ -1,10 +1,86 @@
 ,Производитель,модель,Электрохимическая система,Формфактор,"Габариты сборки/
 батареи, мм","Масса полной батареи, кг","Количество циклов 
 на заряд/разряд","Длительный ток разряда, А","Длительный ток заряда, А","Максимальный ток разряда, А","Максимальный ток заряда, А",Рейтинг по совпадениям
+72,Нетер,1282138-10000,True,True,True,True,True,True,False,True,False,7
+53,Lishen,LR2170LH,True,True,True,True,False,False,False,True,True,6
+63,Нетер,81157230-23000 (T40),True,True,True,True,False,True,False,True,False,6
+62,Нетер,82138238-25000,True,True,True,True,False,True,False,True,False,6
+60,Нетер,80156241-30000,True,True,True,True,False,True,False,True,False,6
+25,BYD,Blade,True,True,True,True,False,False,False,True,True,6
+34,REPT,REPT 280AH,True,True,True,True,False,False,False,True,True,6
+69,Нетер,979180-12000,True,True,True,True,False,True,False,True,False,6
+16,GOTION,ESS10(LTO),True,True,True,False,True,True,True,False,False,6
+64,Нетер,83142240-20000,True,True,True,True,False,True,False,True,False,6
+8,GOTION,ESS96,True,True,True,False,True,True,True,False,False,6
+57,Интернет-магазин,IFP13163163-35Ah,True,True,True,True,False,True,False,False,False,5
+37,Great Power,11133202,True,True,True,True,False,False,False,False,True,5
+52,Lishen,LR1865LD,True,True,True,True,False,False,False,True,False,5
+51,Lishen,LR1865LA,True,True,True,True,False,False,False,True,False,5
+50,Lishen,LR1865EK,True,True,True,True,False,False,False,False,True,5
+49,Lishen,LR1866EF,True,True,True,True,False,False,False,False,True,5
+35,REPT,REPT 230AH,True,True,True,True,False,False,False,False,True,5
+55,Интернет-магазин,IFP08163163-20Ah,True,True,True,True,False,True,False,False,False,5
+36,Great Power,9102165,True,True,True,True,False,False,False,False,True,5
+38,Great Power,10180245,True,True,True,True,False,False,False,False,True,5
+44,Lishen,Lishen1220,True,True,True,True,False,False,False,False,True,5
+39,Great Power,18650,True,True,True,True,False,False,False,True,False,5
+56,Интернет-магазин,IFP11163163-30Ah,True,True,True,True,False,True,False,False,False,5
+40,Great Power,2170,True,True,True,True,False,False,False,True,False,5
+46,Lishen,Lishen1460,True,True,True,True,False,False,False,False,True,5
+42,Great Power,2170,True,True,True,True,False,False,False,True,False,5
+43,Great Power,2170,True,True,True,True,False,False,False,True,False,5
+58,Нетер,12213245-64000,True,True,True,False,False,True,False,True,False,5
+41,Great Power,2170,True,True,True,True,False,False,False,True,False,5
+54,Lishen,LR2170LA,True,True,True,True,False,False,False,True,False,5
+14,GOTION,ESS13,True,True,True,True,True,False,False,False,False,5
+81,Нетер,7875130-5000,True,True,True,False,False,True,False,True,False,5
+80,Нетер,1167102-5000,True,True,True,False,False,True,False,True,False,5
+79,Нетер,6678156-6000,True,True,True,False,False,True,False,True,False,5
+78,Нетер,7065130-6000,True,True,True,True,False,False,False,True,False,5
 6,CATL ,CATL-3.2V 228Ah,True,True,True,True,True,False,False,False,False,5
+77,Нетер,1070125-6000,True,True,True,False,False,True,False,True,False,5
+9,GOTION,ESS90,True,True,True,False,False,True,True,False,False,5
+76,Нетер,8578156-8000,True,True,True,False,False,True,False,True,False,5
+11,GOTION,ESS40,True,True,True,False,False,True,True,False,False,5
+74,Нетер,10110140-10000,True,True,True,False,False,True,False,True,False,5
+18,CALB,L173F280A,True,True,True,True,True,False,False,False,False,5
+71,Нетер,1368130-10000,True,True,True,False,False,True,False,True,False,5
+20,CALB,CALB-CA200,True,True,True,False,False,False,False,True,True,5
+70,Нетер,7397180-11500,True,True,True,True,False,False,False,True,False,5
+68,Нетер,78117169-16000,True,True,True,True,False,False,False,True,False,5
+66,Нетер,72160227-20000,True,True,True,True,False,False,False,True,False,5
+61,Нетер,9133202-25000,True,True,True,True,False,False,False,False,False,4
+75,Нетер,9590150-10000,True,True,True,True,False,False,False,False,False,4
+73,Нетер,1265130-10000,True,True,True,True,False,False,False,False,False,4
+67,Нетер,82117169-16000,True,True,True,True,False,False,False,False,False,4
+59,Нетер,11133202-30000,True,True,True,True,False,False,False,False,False,4
+65,Нетер,78133202-20000,True,True,True,True,False,False,False,False,False,4
 0,CATL ,CATL 3.7V 53Ah,True,True,True,True,False,False,False,False,False,4
-1,CATL ,CATL3.7V 129Ah,True,True,True,True,False,False,False,False,False,4
+22,CALB,L221N113A,True,True,True,True,False,False,False,False,False,4
+24,CALB,L148N50A,True,True,True,True,False,False,False,False,False,4
 2,CATL ,CATL-3.7V 190Ah,True,True,True,True,False,False,False,False,False,4
 3,CATL ,CATL-3.7V 248Ah,True,True,True,True,False,False,False,False,False,4
-4,CATL ,CATL 3.2.V100Ah,True,True,True,False,False,False,False,False,False,3
+7,GOTION,ESS105,True,True,True,True,False,False,False,False,False,4
+12,GOTION,EV12.8,True,True,True,True,False,False,False,False,False,4
+13,GOTION,EV15,True,True,True,True,False,False,False,False,False,4
+15,GOTION,ESS12.8,True,True,True,True,False,False,False,False,False,4
+19,CALB,CALB-CA100,True,True,True,False,False,False,False,True,False,4
+21,CALB,L221N147A,True,True,True,True,False,False,False,False,False,4
+47,Lishen,Lishen3780,True,True,True,True,False,False,False,False,False,4
+23,CALB,L148N58A ,True,True,True,True,False,False,False,False,False,4
+82,Нетер,634770-1600,True,True,True,False,False,False,False,True,False,4
+26,EVE,LF50F,True,True,True,True,False,False,False,False,False,4
+29,EVE,LF280K,True,True,True,False,True,False,False,False,False,4
+30,EVE,INP58P,True,True,True,True,False,False,False,False,False,4
+31,EVE,INP114E,True,True,True,True,False,False,False,False,False,4
+32,EVE,M32,True,True,True,True,False,False,False,False,False,4
+33,EVE,D21,True,True,True,True,False,False,False,False,False,4
+1,CATL ,CATL3.7V 129Ah,True,True,True,True,False,False,False,False,False,4
+45,Lishen,Lishen820,True,True,True,True,False,False,False,False,False,4
+27,EVE,LF160,True,True,True,False,False,False,False,False,False,3
+28,EVE,LF173,True,True,True,False,False,False,False,False,False,3
+17,CALB,L300F177A,True,True,True,False,False,False,False,False,False,3
+10,GOTION,ESS100	,True,True,True,False,False,False,False,False,False,3
 5,CATL ,CATL-3.2V 120Ah,True,True,True,False,False,False,False,False,False,3
+4,CATL ,CATL 3.2.V100Ah,True,True,True,False,False,False,False,False,False,3
+48,Lishen,LR1865EH,True,True,True,False,False,False,False,False,False,3
